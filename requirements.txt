@@ -1,0 +1,7 @@
+aiogram==3.24.0
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+python-dotenv==1.1.1
+# Keep yt-dlp current; a safe daily updater is also available in the running service.
+yt-dlp[default]
+tzdata>=2025.2
